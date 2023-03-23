@@ -1,0 +1,46 @@
+.bg-button{
+   background-color:lightseagreen;
+   font-weight: 600;
+   font-size: large;
+   color: white;
+}
+.mybutton{
+   
+   font-weight: 600;
+   font-size: large;
+   color: white;
+}
+
+.green{
+   background-color:lightgreen;
+}
+
+.purple{
+   background-color:rgb(190, 182, 189);
+}
+.pink{
+   background-color:rgba(255, 250, 199, 0.824);
+}
+.lightgreen{
+   background-color:rgb(220, 255, 202);
+}
+.homecolor{
+   background-color:rgb(255, 219, 206);
+}
+
+.myfont{
+   
+      text-shadow: 0px 3px 3px white;
+      color:rgb(0, 0, 0);
+      
+      font-weight: bold;
+    }
+    
+    button:hover{
+      
+       color: rgb(237, 237, 237);
+    }
+
+    .viewbg{
+      background-color: beige;
+   }

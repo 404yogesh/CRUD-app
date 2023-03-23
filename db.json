@@ -1,0 +1,60 @@
+{
+  "studentInfo": [
+    {
+      "studentEmail": "arun@gmail.com",
+      "studentName": "arun",
+      "class": 10,
+      "percentage": "80%",
+      "phone": 9975962135,
+      "id": 9
+    },
+    {
+      "studentEmail": "saurav@gmail.com",
+      "studentName": "saurav",
+      "class": 10,
+      "percentage": "90%",
+      "phone": 9175962135,
+      "id": 10
+    },
+    {
+      "studentEmail": "rahul@gmail.com",
+      "studentName": "rahul",
+      "class": 12,
+      "percentage": "60%",
+      "phone": 9995962135,
+      "id": 12
+    },
+    {
+      "studentEmail": "nitin@gmail.com",
+      "studentName": "nitin",
+      "class": 8,
+      "percentage": "80%",
+      "phone": 9875962135,
+      "id": 13
+    },
+    {
+      "studentEmail": "yash@gmail.com",
+      "studentName": "yash",
+      "class": 11,
+      "percentage": "75%",
+      "phone": 9985962135,
+      "id": 14
+    },
+    {
+      "studentEmail": "anita@gmail.com",
+      "studentName": "anita",
+      "class": 10,
+      "percentage": "90%",
+      "phone": 9005962135,
+      "id": 15
+    },
+    {
+      "studentEmail": "viviek@gmail.com",
+      "studentName": "Vivek sir",
+      "class": 12,
+      "percentage": "100%",
+      "phone": 9871232135,
+      "id": 17
+    }
+  ]
+}

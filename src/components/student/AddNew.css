@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+}
+
+a{
+    margin-inline: 20px;
+}
+
+.flexclm{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.margin-10{
+  margin-left: 30%;
+  
+  font-weight: 600;
+}
+
+/* button:hover{
+  color: lightgray;
+} */
+
+input:focus{
+  background-color: rgba(253, 242, 252, 0.922);
+  
+}
